@@ -1,5 +1,5 @@
 # StepInHerShoes
-Developed a website presenting comprehensive information, in the form of PDFs, about the legal rights and status of women as enshrined in the Indian constitution using PHP, HTML,CSS, JavaScript.
+Developed a website presenting comprehensive information, in the form of PDFs, about the legal rights and status of women as enshrined in the Indian constitution using PHP, HTML, CSS, & JavaScript.
 
 Designed and implemented a dynamic web page to highlight the upcoming events organized by various NGO’s advocating women's empowerment. 
 
