@@ -1,2 +1,8 @@
 # StepInHerShoes
-A website which empowers and encourages women with inspiring and life saving incidents. Also it emphasis on various campaigns and event concerned with the women issues. Also it brings about the awareness of the laws and rights related to women.
+Developed a website presenting comprehensive information, in the form of PDFs, about the legal rights and status of women as enshrined in the Indian constitution using PHP, HTML,CSS, JavaScript.
+
+Designed and implemented a dynamic web page to highlight the upcoming events organized by various NGO’s advocating women's empowerment. 
+
+Established an engaging platform featuring inspirational blogs tailored for women users.
+
+Constructed a multimedia-rich web page offering self-defense instructional videos targeted at empowering women.
